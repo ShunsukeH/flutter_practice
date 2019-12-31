@@ -1,4 +1,4 @@
-# practise_app
+# practice_app
 
 A new Flutter application.
 

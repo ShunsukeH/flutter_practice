@@ -1,6 +1,6 @@
 @file:Suppress("Annotator", "Annotator")
 
-package com.shnhsn.practise_app
+package com.shnhsn.practice_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
